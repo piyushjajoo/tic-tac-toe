@@ -1,4 +1,4 @@
-package com.example.pjajoo.connect3;
+package com.example.pjajoo.tictactoe;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

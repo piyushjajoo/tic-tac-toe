@@ -1,4 +1,4 @@
-package com.example.pjajoo.connect3;
+package com.example.pjajoo.tictactoe;
 
 import org.junit.Test;
 
